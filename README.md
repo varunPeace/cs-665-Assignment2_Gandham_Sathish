@@ -11,7 +11,7 @@ The observer pattern is implemented in this project using the classes observer, 
 It issues a delivery request to all drivers, informing them of the delivery request.
 
 # GitHub Repository Link:
-https://github.com/varunPeace/cs-665-Assignment2_Gandham_Sathish
+https://github.com/varunPeace/cs-665-Assignment2_Gandham_Sathish/tree/master
 
 # UML
 ![](UML.png)
