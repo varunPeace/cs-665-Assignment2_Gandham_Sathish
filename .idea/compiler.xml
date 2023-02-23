@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JavaProjectTemplate" />
+        <module name="cs-665-Assignment2_Gandham_Sathish" />
+        <module name="metCS665_Assignment2_Gandham_Sathish" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
